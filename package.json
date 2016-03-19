@@ -63,7 +63,7 @@
     "redbox-react": "^1.2.2",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-dev-server": "^1.14.1",
-    "webpack-hot-middleware": "^2.7.1",
+    "webpack-hot-middleware": "^2.7.1"
   },
   "dependencies": {
     "lodash": "^4.5.0",
