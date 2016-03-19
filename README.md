@@ -2,7 +2,10 @@
 
 Yet another starting point for creating React apps. This boilerplate uses React Router, Webpack, HMR, PostCSS & Express.
 
-Heavily inspired by [react-kickstart](https://github.com/vesparny/react-kickstart).
+
+### Demo
+[Demo](https://react-express-starter.herokuapp.com)
+
 
 ### Development
 ```
@@ -29,4 +32,6 @@ git push heroku master
 
 -------------------
 
-- bharanim [@bharani91](https://twitter.com/bharani91)
+bharanim [@bharani91](https://twitter.com/bharani91)
+
+Heavily inspired by [react-kickstart](https://github.com/vesparny/react-kickstart).
