@@ -19,6 +19,14 @@ npm run build:start
 ```
 This will create a production build and will start a server at http://localhost:8000/
 
+
+### Deployment
+Install the Heroku toolbelt.
+```
+heroku create myapp
+git push heroku master
+```
+
 -------------------
 
 - bharanim [@bharani91](https://twitter.com/bharani91)
